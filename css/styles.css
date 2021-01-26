@@ -1,0 +1,18 @@
+@font-face {
+    font-family: "Graphik";
+    src: url("../fonts/GraphikLCG-Medium.woff") format("woff"),
+         url("../fonts/GraphikLCG-Medium.woff2") format("woff2");
+   }
+
+.container {
+    width: 100%;
+    max-width: 1100px;
+    margin: 0 auto;
+}
+
+.title {
+    color: #222020;
+    font-family: "Graphik";
+    font-size: 40px;
+    font-weight: 500;
+}
